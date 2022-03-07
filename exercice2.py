@@ -19,6 +19,18 @@ def div_fract(fr1, fr2) :
     d, c = fr2
     return a * c / b * d
 
+a, b = 1, 2
+d, c = 2, 3
+
+fract1 = a, b
+fract2 = d, c
+
+
+
+
+
+
+
  
 
 
