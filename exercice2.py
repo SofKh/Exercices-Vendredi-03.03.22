@@ -25,6 +25,14 @@ d, c = 2, 3
 fract1 = a, b
 fract2 = d, c
 
+n1, d1 = add_fract(fract1, fract2)
+
+print(f"{n1}/{d1}")
+
+
+
+
+
 
 
 
